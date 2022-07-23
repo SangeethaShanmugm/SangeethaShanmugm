@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,Nice to see you guys. I'm Sangeetha Shanmugam</h1>
 <h3 align="center">Welcome to my page!</h3>
+<p>I am a Software Developer with the right mix of Functional programming and Goal oriented person.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
