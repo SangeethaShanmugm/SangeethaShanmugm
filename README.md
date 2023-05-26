@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeethashanmugm&show_icons=true&locale=en" alt="sangeethashanmugm" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=SangeethaShanmugm" alt="sangeethashanmugm" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=SangeethaShanmugm)](https://git.io/streak-stats)" alt="sangeethashanmugm" /></p>
 
