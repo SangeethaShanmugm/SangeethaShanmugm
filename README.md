@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=SangeethaShanmugm" alt="sangeethashanmugm" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SangeethaShanmugm)](https://git.io/streak-stats)
+
 
