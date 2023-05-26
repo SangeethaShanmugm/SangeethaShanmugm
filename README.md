@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeethashanmugm&show_icons=true&locale=en" alt="sangeethashanmugm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangeethashanmugm&" alt="sangeethashanmugm" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SangeethaShanmugm)](https://git.io/streak-stats)
