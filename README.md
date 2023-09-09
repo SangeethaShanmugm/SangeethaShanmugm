@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangeetha Shanmugam</h1>
-<h3 align="center">Senior Full Stack Developer who specializes in JavaScript Technologies across the whole stack(React, Node.js, Express, MongoDB). Eager to join a creative, problem solving team and upskill myself in any challenging environment. Ability to learn and implement new technologies quickly. I have extensive experience in developing and deploying websites utilizing various open-source packages. Don't just build a solution but design the BEST solution which is Futuristic, Reliable, Low Maintenance, Open to Interoperability and longstanding 😀</h3>
+<h3 align="center">Lead Full Stack Developer who specializes in JavaScript Technologies across the whole stack(React, Node.js, Express, MongoDB). Eager to join a creative, problem solving team and upskill myself in any challenging environment. Ability to learn and implement new technologies quickly. I have extensive experience in developing and deploying websites utilizing various open-source packages. Don't just build a solution but design the BEST solution which is Futuristic, Reliable, Low Maintenance, Open to Interoperability and longstanding 😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeethashanmugm&label=Profile%20views&color=0e75b6&style=flat" alt="sangeethashanmugm" /> </p>
 
